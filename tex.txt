@@ -1,0 +1,35 @@
+byte num = 28;
+
+if (num %3 == 0 && num %7 == 0) 
+{
+    Console.WriteLine("Tam bolunur");
+}
+else 
+{
+    Console.WriteLine("Tam bolunmur");
+}
+
+
+
+int data = 7;
+
+if (data < 0) 
+{
+    Console.WriteLine("menfidir");
+}
+else 
+{
+    Console.WriteLine("musbetdir");
+}
+
+
+int num = 7;
+
+if (num >=0)
+{
+    Console.WriteLine("musbetdir");
+}
+else 
+{
+    Console.WriteLine("menfidir");
+}
