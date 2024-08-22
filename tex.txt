@@ -11,18 +11,6 @@ else
 
 
 
-int data = 7;
-
-if (data < 0) 
-{
-    Console.WriteLine("menfidir");
-}
-else 
-{
-    Console.WriteLine("musbetdir");
-}
-
-
 int num = 7;
 
 if (num >=0)
